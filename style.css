@@ -1,0 +1,49 @@
+
+.red{ 
+    background-color: #ff0000;
+padding: 23px;
+}
+
+
+table{
+    border: 5px solid black;
+    
+}
+.white{
+     border: 1px solid black;
+    padding: 23px;
+}
+.green{
+    background-color: green;
+    padding:23px;
+    
+}
+.yellow{
+    padding: 23px;
+     background-color: yellow;
+}
+.blue{
+    padding:23px;
+    background-color: blue;
+}
+.green1{
+    
+    background-color: green;
+    padding:23px;
+    border: 1px solid black;
+    }
+    .red1{
+        background-color: red;
+        padding: 23px;
+        border: 1px solid black;
+    }
+    .blue1{
+    background-color: blue;
+    padding: 23px;
+    border: 1px solid black;
+  }
+  .yellow1{
+    background-color: yellow;
+    padding: 23px;
+    border: 1px solid black;
+  }
